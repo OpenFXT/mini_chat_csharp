@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "YHKoW81HbnxWGfRVzUsjSzYqLE5XBJz5j43zmvlplRus8/LXYOu9iKXFJLvRTNaAp5TIxM0HeWq5XHveTKFRmw==",
+  "success": true,
+  "projectFilePath": "D:\\Git-Hub-ProjectServer\\Ca-Nhan-Repository\\Thuoc-Ve-Lap-Trinh-Workspace\\Mini-Chat-Server-Client-Application\\Source-Code\\Source-Code\\Server-Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UTH\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\UTH\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

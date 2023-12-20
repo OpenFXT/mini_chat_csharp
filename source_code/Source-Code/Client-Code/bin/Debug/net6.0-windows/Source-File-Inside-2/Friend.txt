@@ -1,0 +1,5 @@
+./Source-File-Inside-2/1.jpg|Đỗ Tuấn|1
+./Source-File-Inside-2/2.jpg|Đỗ Tuấn|0
+./Source-File-Inside-2/1.jpg|Lan Anh Nguyễn|0
+./Source-File-Inside-2/2.jpg|Đỗ Tuấn|1
+./Source-File-Inside-2/1.jpg|Nguyễn Thị Sương|1
